@@ -1,2 +1,4 @@
 # hello-world1
-はじめてのリポジトリ
+ はじめてのリポジトリ！
+ コヒーが好き。ピザとダンサー。
+ I love :coffee:, :pizza:, and :dancer:.
